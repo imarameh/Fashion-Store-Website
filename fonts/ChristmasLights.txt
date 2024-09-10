@@ -1,0 +1,131 @@
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+= A GreyWolf WebWorks Free Font =+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+= "Christmas Lights - Indoor & Outdoor" © Rich Gast =+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+"Christmas Lights - Indoor & Outdoor" are the 48th and 49th free 
+fonts from Rich Gast. They are zipped together as one set and this
+text file pertains to both fonts.
+
+They were originally created on 09/21/00.
+
+GreyWolf WebWorks Free Fonts (and versions previously released as
+DarkSide's Free Fonts) are FREE for personal use. They do, however,
+remain the copyrighted property of Rich Gast and GreyWolf WebWorks.
+They are not in the public domain.
+
+Commercial use in any manner, including (but not limited to) use in
+product, service or corporate logo design, inclusion in any software,
+archive, collection or library for distribution to the public which
+either directly or indirectly generates income for the distributor
+requires written permission from the author and copyright holder,
+who is specifically identified as:
+
+Richard Gast
+5818 Prophet's Rock Road
+West Lafayette, IN 47906
+e-mail: greywolfwebworks@comcast.net
+Web Site: http://home.comcast.net/~greywolfwebworks
+
+Commercial ventures granted permission to include any GreyWolf Free
+Font in their software, archive, library or collection will, if they
+so request, be provided with new font files at no charge in which the
+version specifically identifies them as a licensed user. In this
+manner, the author and copyright holder of the fonts can best retain
+control of the type of product/company with which his fonts are to be
+associated.
+
+Commercial ventures who include any GreyWolf Free Font in any manner
+described above without receiving written permission from the author
+and copyright holder will be subject to any and all legal remedies
+available to the copyright holder.
+
+All GreyWolf Free Fonts may be redistributed via FREE web sites,
+e-mail, newsgroups and bulletin boards, as long as the original zip
+file is kept intact and unaltered, including the accompanying text
+file(s). If you wish to include them on a free web site, please just
+ask in advance.
+
+NOTE TO PERSONAL USERS: Maybe, just maybe, you'll make a fortune using
+this font in some manner. If you do, all I ask is that you remember me
+with a token of your appreciation. Any modest amount (at least $1 and
+not to exceed $1,000,000) would be an appropriate gesture for my
+contribution to your monumental financial success. Hey! I can dream!
+
+WARRANTY
+No warranty is either expressed or implied for this software product
+by GreyWolf WebWorks. This software product and related documentation
+are provided "as is" without warranty of any kind including, but not
+limited to, implied warranties of merchantability, fitness for a given
+purpose, or noninfringement. The entire risk arising from use of the
+software product remains with you, the user.
+
+LIABILITY FOR DAMAGES. In no event shall GreyWolf WebWorks be liable
+for any damages whatsoever (including, but not limited to, damages
+for loss of business profits, business interruption, loss of business
+information, or any other pecuniary loss) arising from the use of or
+inability to use this product, even if GreyWolf WebWorks has been
+advised of the possibility of such damages.
+
+The character sets for these fonts are as follows:
+
+Christmas Lights Indoor...
+(Includes limited int'l letters, ÄÅÇÑÖäåçñö)
+
+Letters [Bulb Up] are Upper Case Letters
+Letters [Bulb Dn] are Lower Case Letters
+Numbers [Bulb Up] are 0 thru 9
+Numbers [Bulb Dn] are alt0180 thru alt0189
+Fill Character [Bulb Up] is alt0150
+Fill Character [Bulb Dn] is alt0151
+! [Bulb Up] is !     [Bulb Dn] is alt0161
+@ [Bulb Up] is @     [Bulb Dn] is #
+$ [Bulb Up] is $     [Bulb Dn] is \
+% [Bulb Up] is %     [Bulb Dn] is alt0137
+& [Bulb Up] is &     [Bulb Dn] is +
+* [Bulb Up] is *     [Bulb Dn] is alt0166
+' [Bulb Up] is '     [Bulb Dn] is alt0163
+Single Smart Quotes [Bulb Up] are alt0145 & alt0146
+Single Smart Quotes [Bulb Dn] are alt0162 & alt0163
+" [Bulb Up] is "     [Bulb Dn] is alt0165
+Double Smart Quotes [Bulb Up] are alt0147 & alt0148
+Double Smart Quotes [Bulb Up] are alt0164 & alt0165
+Snow Flakes [Bulb Up] is (
+Snow Flakes [Bulb Dn] is )
+, [Bulb Up] is ,     [Bulb Dn] is <
+. [Bulb Up] is .     [Bulb Dn] is >
+? [Bulb Up] is ?     [Bulb Dn] is /
+: [Bulb Up] is ,     [Bulb Dn] is alt0134
+; [Bulb Up] is ,     [Bulb Dn] is alt0135
+- [Bulb Up] is -     [Bulb Dn] is _
+Blank Connecting Wire is =
+Male Plug: Left is {     Right is }
+Female Plug: Left is [     Right is ]
+Connected Male/Female Plug is `
+
+Christmas Lights Outdoor...
+(Same as Indoor except as follows)
+
+All characters, both Bulb Up and Bulb Dn, are tilted either left or
+right a few degrees as though blown by the wind. Therefore there are
+4 "fill" characters instead of 2. They are:
+Fill Character [Bulb Up - Left Tilt] is alt0150
+Fill Character [Bulb Up - Right Tilt] is alt0151
+Fill Character [Bulb Dn - Left Tilt] is alt0152
+Fill Character [Bulb Dn - Right Tilt] is alt0153
+
+Vertical positioning and glyph width are the same in both fonts so
+that one string of characters can be made by mixing both fonts, 
+resulting in an unbroken string of both straight and tilted lights.
+
+Fill characters can be typed in different colors and then the bulb
+characters superimposed on top of the fill to created a colorful
+holiday message.
+
+This pair of fonts was created for Ole at FontFreak.com as a thanks
+for offering to host my site.
+
+..... Rich Gast
+GreyWolf WebWorks
+http://home.earthlink.net/~greywolfww/index.html
