@@ -1,3 +1,4 @@
+![Fasion-store-screenshot](https://github.com/user-attachments/assets/21121cf7-8cb4-411c-b539-ddc978ece4c3)
 # Fashion Store Website
 
 ## Description
